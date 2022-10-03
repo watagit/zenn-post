@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/watagit/zenn-post/issues"
   },
-  "homepage": "https://github.com/watagit/zenn-post#readme"
+  "homepage": "https://github.com/watagit/zenn-post#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.128"
+  }
 }
