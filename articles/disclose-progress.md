@@ -80,7 +80,7 @@ Slackなどのコミュニケーションツールと連携しておくと、更
 作業途中であることがわかるよう、Draftにしておくか、タイトルにwipなどのラベルを入れておきましょう。
 これもプロジェクト管理ツール同様にSlack連携等しておくと通知が飛ぶのでおすすめです。
 
-https://slack.com/intl/ja-jp/help/articles/232289568-GitHub-%E3%81%A8-Slack-%E3%82%92%E9%80%A3%E6%90%BA%E3%81%95%E3%81%9B%E3%82%8B
+https://github.com/integrations/slack
 
 # あとがき
 
