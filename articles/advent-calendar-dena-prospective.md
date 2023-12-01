@@ -9,7 +9,7 @@ published_at: 2023-12-02
 
 # はじめに
 
-この記事は DeNA 24 新卒 Advent Calendar 2023 の 2 日目の記事です。
+この記事は [DeNA 24 新卒 Advent Calendar 2023](https://qiita.com/advent-calendar/2023/dena-24-newgrad) の 2 日目の記事です。
 
 1 日目は [@iamsummer](https://qiita.com/iamsummer) さんの「SwiftUI の Layout System について調べてみる🤔」でした。 ネイティブアプリ開発の経験がない私にとって、モダンな SwiftUI の情報はとても新鮮でした。いつかネイティブアプリ開発に手を出したいなぁと思っているので、情報交換していきたいです。
 
@@ -94,6 +94,8 @@ FYI: すべての通知が mark as read になると、以下のような表示�
 明日以降も DeNA 24 新卒による Advent Calender は続きますので、引き続き楽しみにしてください！
 
 最後まで読んでいただき、ありがとうございました！
+
+https://qiita.com/advent-calendar/2023/dena-24-newgrad
 
 [^1]: [マルチタスク環境下における認知負荷の測定と評価](https://cir.nii.ac.jp/crid/1520009409519091200)
 [^2]: [Working Memory and Attention – A Conceptual Analysis and Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6688548/#:~:text=The%20idea%20of%20attention%20as,processes%2C%20depending%20on%20task%20demands.)
