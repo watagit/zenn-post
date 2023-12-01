@@ -11,7 +11,9 @@ published_at: 2023-12-02
 
 この記事は [DeNA 24 新卒 Advent Calendar 2023](https://qiita.com/advent-calendar/2023/dena-24-newgrad) の 2 日目の記事です。
 
-1 日目は [@iamsummer](https://qiita.com/iamsummer) さんの「SwiftUI の Layout System について調べてみる🤔」でした。 ネイティブアプリ開発の経験がない私にとって、モダンな SwiftUI の情報はとても新鮮でした。いつかネイティブアプリ開発に手を出したいなぁと思っているので、情報交換していきたいです。
+1 日目は [@iamsummer](https://qiita.com/iamsummer) さんの「SwiftUI の Layout System について調べてみる🤔」でした。 こちらも併せてお楽しみください。
+
+https://medium.com/@amisummer/swiftui-%E3%81%AE-layout-system-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%BF%E3%81%B9%E3%81%A6%E3%81%BF%E3%82%8B-advent-calendar-2023-day-1-3f821f156cb0
 
 改めまして、わたぽん ([@what_a_pon](https://twitter.com/what_a_pon)) です。DeNA に 24 新卒でソフトウェアエンジニアとして入社予定です。最近は大学院退学を決意したこともありフリーランス的な活動をしています。
 
