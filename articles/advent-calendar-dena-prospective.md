@@ -3,7 +3,7 @@ title: "集中力を損なわないための情報削減術"
 emoji: "🦁"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["Tips", "生産性向上"]
-published: true
+published: false
 published_at: 2023-12-02
 ---
 
